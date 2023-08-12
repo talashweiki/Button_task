@@ -4,13 +4,23 @@
 
 Pressing the button turns on the light, and pressing it again turns it off.
 
-### The Desighn:
+### Tools :
+* Raspberry pi
+* LED
+* Button
+* resistor 
+
+### The Design:
 
 <p align="center">
 <picture>
-  <img alt="hard ware" src=".png" width="100%" hight="100%" >
+  <img alt="hard ware" src="Button.jpg" width="40%" hight="50%" >
 </picture>
 </p>
+
+### The code :
+[click here](LICENSE.txt)
+
 
 
 
