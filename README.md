@@ -8,7 +8,7 @@ Pressing the button turns on the light, and pressing it again turns it off.
 * Raspberry pi
 * LED
 * Button
-* resistor (330 Ω)
+* Resistor (330 Ω)
 
 ### The Design:
 
