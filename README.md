@@ -19,7 +19,7 @@ Pressing the button turns on the light, and pressing it again turns it off.
 </p>
 
 ### The code :
-[click here](LICENSE.txt)
+[click here](led-test.py)
 
 ### The Team:
 * [Tala Shweiki](https://github.com/talashweiki)
